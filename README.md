@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT och Nätverks Projekt:</h2>
 
 - <b>Active Directory home lab </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active directory managing users](https://github.com/Victornordstrom/Ad-Project1)
 - <b>Cisco packet tracer configurations (Dns , Ip , Dhcp , Trunking)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
 - <b>Linux labs</b>
