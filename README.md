@@ -5,7 +5,7 @@
 - <b>Active Directory home lab </b>
   - [Active directory managing users](https://github.com/Victornordstrom/Ad-Project1)
 - <b>Cisco packet tracer configurations (Dns , Ip , Dhcp , Trunking)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
+  - [packettracer labs]() <b><i></b></i>
 - <b>Linux labs</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
