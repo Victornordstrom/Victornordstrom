@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT och Nätverks Projekt:</h2>
 
 - <b>Active Directory home lab </b>
-  - [Active directory managing users](https://github.com/Victornordstrom/Ad-Project1)
+  - [Small Network With Active Directory](https://github.com/Victornordstrom/Ad-Project1)
 - <b>Cisco packet tracer configurations (Dns , Ip , Dhcp , Trunking)</b>
   - [packettracer labs](https://github.com/Victornordstrom/Packettracer-Labs) <b><i></b></i>
 - <b>Linux labs</b>
