@@ -14,8 +14,8 @@
 - <b> Html , CSS website</b>
   - [Html and css website](https://github.com/Victornordstrom/HTML)
  
-- <b>Python Scripts</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)]
+- <b>Python</b>
+  - [Python bruteforce Tool(python)](https://github.com/Victornordstrom/CyberTools)
 
 <h2> 🤳 Connect with me:</h2>
 
